@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="47px" viewBox="0 0 32 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Design-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="6-My-Feed" transform="translate(-54.000000, -391.000000)">
+            <g id="Categories" transform="translate(15.000000, 319.000000)">
+                <g id="1" transform="translate(0.000000, 52.000000)">
+                    <g id="Icon" transform="translate(39.000000, 20.000000)">
+                        <rect id="Rectangle" fill="#286EF1" x="3" y="12" width="26" height="32"></rect>
+                        <path d="M31.9627989,11.8205912 C29.9125338,4.98267074 23.548724,0 16.0000208,0 C8.46463093,0 2.10082112,4.98267074 0.0372426322,11.8205912 C-0.135831693,12.4036697 0.316824234,13 0.929241077,13 L31.0574871,13 C31.6832173,13 32.1358732,12.4169215 31.9627989,11.8205912 Z" id="Path" fill="#0D5CEC"></path>
+                        <rect id="Rectangle" fill="#324A5E" x="8" y="19" width="17" height="3"></rect>
+                        <path d="M31.298995,44 L1.70100503,44 C1.31155779,44 1,44.2790698 1,44.627907 L1,46.372093 C1,46.7209302 1.31155779,47 1.70100503,47 L31.298995,47 C31.6884422,47 32,46.7209302 32,46.372093 L32,44.627907 C32,44.2906977 31.6754606,44 31.298995,44 Z" id="Path" fill="#0D5CEC"></path>
+                        <polygon id="Path" fill="#E6E9EE" points="24 27 9 27 12.0762712 21 20.9237288 21"></polygon>
+                        <rect id="Rectangle" fill="#FFC032" x="8" y="31" width="17" height="10"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
